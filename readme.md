@@ -2,7 +2,7 @@ This project is implemented using Node.js,TypeScript and Express on Node v14.17.
 
 **Basic Requirements**
     Working Node Installation 
-    /n
+    
 **To Run:**
     npm install
     npm start
