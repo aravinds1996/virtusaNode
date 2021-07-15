@@ -5,6 +5,7 @@ This project is implemented using Node.js,TypeScript and Express on Node v14.17.
     
 **To Run:**
     npm install
+** To Start Application **
     npm start
 
 **Check Url :**
