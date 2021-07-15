@@ -22,7 +22,3 @@ This project is implemented using Node.js,TypeScript and Express on Node v14.17.
     Select json method and paste the request data
     Click Send
 
-
-
-
-npm init -y
