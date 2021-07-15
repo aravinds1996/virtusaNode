@@ -1,5 +1,5 @@
-_This project is implemented using Node.js,TypeScript and Express on Node v14.17.0 using Visual Studio Code IDE.
-_
+This project is implemented using Node.js,TypeScript and Express on Node v14.17.0 using Visual Studio Code IDE.
+
 **Basic Requirements**
     Working Node Installation 
 **To Run:**
